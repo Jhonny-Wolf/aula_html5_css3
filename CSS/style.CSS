@@ -1,0 +1,35 @@
+
+body {
+    background: rgb(209, 105, 105);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 80px;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-style: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+.img_padrao { 
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 30px;
+}
